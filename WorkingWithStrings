@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+ 
+  cout << "Giraffe Academy\n"; // '\n' is another way to get a new line, with a string 
+  cout << "Hello" << endl;
+ 
+  return 0;
+  
+  }
