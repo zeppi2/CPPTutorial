@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+
+  string phrase = "Giraffe Academy"; 
+  cout << phrase.length(); // In C++, we usually call functions using this dot and the name of the function
+  
+  // This function tells us how many characters are within the phrase 
+  
+  return 0;
+  
+  }
