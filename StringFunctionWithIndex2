@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string phrase = "Giraffe Academy";
+    string phrasesub;
+    cout << phrasesub;
+    
+    // returns a portion of string, beginning at a specified character position, 
+    // and a specified number of characters long
+ 
+    return 0;
+}
