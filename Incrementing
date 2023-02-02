@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+
+    // Doubles can hold more precise decimal values
+    int wnum = 5;
+    double ddum = 5.5;
+    
+    wnum++;
+
+    // Incrementing a values
+    
+    cout << wnum;
+
+    return 0;
+}
