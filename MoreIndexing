@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    string phrase = "Giraffe Academy";
+    cout << phrase.find("Academy", 0);
+    
+    // Giving information by passing parameters
+    // This finds where "Academy" is & it gives the index for where it starts
+
+    return 0;
+}
