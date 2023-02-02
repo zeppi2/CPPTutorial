@@ -5,10 +5,12 @@ using namespace std;
 int main()
 {
     
-    cout << fmin(2, 5);
-    cout << fmax(2, 5);
+    cout << fmin(2, 10) << endl;
+    cout << fmax(2, 10) << endl;
 
     // Finds smallest and greatest value
     
     return 0;
 }
+
+
