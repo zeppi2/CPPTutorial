@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    
+    string name;
+
+    cout << "Enter your name: ";
+    getline(cin, name);
+    
+    // Cin is asking for user input here
+    // Getline() helps us get an entire string or line of text
+    
+    cout << "You go by " << name << ".";
+    
+    return 0;
+}
